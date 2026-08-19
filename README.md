@@ -10,4 +10,4 @@ A lightweight, console-based utility developed in C++ to perform accurate engine
 ## How to Run
 1. Clone the repository or download the `.cpp` file:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/cpp-unit-converter.git
+   git clone [https://github.com/](https://github.com/)<manavkundu>/cpp-unit-converter.git
